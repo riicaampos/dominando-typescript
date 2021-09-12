@@ -1,4 +1,4 @@
-const site: unknown = 'https://hcode.com'
+const sitee: unknown = 'https://hcode.com'
 let listSites: string[] = [];
 
 //2 jeitos diferentes de fazer um 'cast', de afirmar que o valor é uma string nesse caso
