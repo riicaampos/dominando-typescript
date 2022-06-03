@@ -6,7 +6,7 @@ var Pessoa = /** @class */ (function () {
         this.altura = altura;
     }
     Pessoa.prototype.toString = function () {
-        return "Meu nome \u00E9 " + this.nome + ", tenho " + this.idade + " e tenho " + this.altura + " de altura";
+        return "Meu nome \u00E9 ".concat(this.nome, ", tenho ").concat(this.idade, " e tenho ").concat(this.altura, " de altura");
     };
     return Pessoa;
 }());

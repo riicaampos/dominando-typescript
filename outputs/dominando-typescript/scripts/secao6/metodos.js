@@ -6,7 +6,7 @@ var Professor = /** @class */ (function () {
         this.materia = materia;
     }
     Professor.prototype.seApresentar = function () {
-        return "Ol\u00E1 meu nome \u00E9 " + this.nome + ", tenho " + this.idade + " anos e vou ensinar " + this.materia;
+        return "Ol\u00E1 meu nome \u00E9 ".concat(this.nome, ", tenho ").concat(this.idade, " anos e vou ensinar ").concat(this.materia);
     };
     Professor.prototype.calculaNota = function () {
         var notas = [];
