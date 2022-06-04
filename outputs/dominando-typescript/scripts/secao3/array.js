@@ -1,8 +1,8 @@
 "use strict";
 //Posso tanto inicialiuzar passando os valors ['Drama','Terror'...]
 //Ou posso inicializar vazio [] e inckuir dados no push catFilmes.push('Comedia')
-var catFilmes = [];
+const catFilmes = [];
 //Array que aceita string e number
-var catFilmes2 = [];
-var catFilmes3 = [];
-var catFilmes4 = [];
+const catFilmes2 = [];
+const catFilmes3 = [];
+const catFilmes4 = [];

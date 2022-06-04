@@ -1,6 +1,6 @@
 "use strict";
-var site = 'https://hcode.com';
-var listSites = [];
+const site = 'https://hcode.com';
+let listSites = [];
 //2 jeitos diferentes de fazer um 'cast', de afirmar que o valor é uma string nesse caso
 listSites.push(site);
 listSites.push(site);

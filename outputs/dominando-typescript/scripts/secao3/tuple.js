@@ -1,3 +1,3 @@
 "use strict";
-var superSet;
+let superSet;
 superSet = ['TypeScript', 2011, 'Anders'];

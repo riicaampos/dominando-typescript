@@ -3,7 +3,7 @@
  * Quando não se quer que altere o valor de uma propriedade, usar o readonly, não deve ser usado o const
  *  o const deve ser usado para variavel, em propriedades usar sempre o readonly
  */
-var curso = {
+const curso = {
     titulo: "TypeScript",
     preco: 5000,
     cargaHoraria: 10,
