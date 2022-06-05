@@ -3,9 +3,7 @@
 class Pedido {
 
     constructor(private produto : string, protected valorTotal : number, public previsaoEntrega : Date){
-        this.produto = produto
-        this.valorTotal = valorTotal
-        this.previsaoEntrega = previsaoEntrega
+
     }
 
 }

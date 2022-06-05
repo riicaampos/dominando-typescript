@@ -1,7 +1,7 @@
 class Pessoa {
 
    nome: string;
-   idade: number;
+   idade: number
    altura: number;
 
 
