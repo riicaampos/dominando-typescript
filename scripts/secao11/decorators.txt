@@ -1,0 +1,5 @@
+/**
+ * É um recurso que nos permite realizar modificações em partes do nosso código no momento de
+ * sua execução, podemos dizer que eles são como uma anotação adicionada ao código que permite
+ * uma modificação em seu comportamento
+ */
